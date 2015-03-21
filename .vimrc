@@ -10,8 +10,6 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 
-call pathogen#infect()
-call pathogen#helptags()
-
+execute pathogen#infect()
 syntax on
 filetype plugin indent on
