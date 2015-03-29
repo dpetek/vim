@@ -16,3 +16,9 @@
 [submodule ".vim/bundle/python-module"]
 	path = .vim/bundle/python-module
 	url = git@github.com:klen/python-mode.git
+[submodule ".vim/bundle/vim-snippets"]
+	path = .vim/bundle/vim-snippets
+	url = git@github.com:honza/vim-snippets.git
+[submodule ".vim/bundle/ultisnip"]
+	path = .vim/bundle/ultisnip
+	url = git@github.com:SirVer/ultisnips.git

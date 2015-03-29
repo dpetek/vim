@@ -25,3 +25,7 @@ autocmd vimenter * NERDTree
 "  Remove red column (max line width)
 "  https://github.com/klen/python-mode/issues/466
 let g:pymode_options_colorcolumn = 0
+
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<c-b>"
+let g:UltiSnipsJumpBackwardTrigger="<c-z>"
