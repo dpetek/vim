@@ -13,3 +13,6 @@
 [submodule ".vim/bundle/supertab"]
 	path = .vim/bundle/supertab
 	url = git@github.com:ervandew/supertab.git
+[submodule ".vim/bundle/python-module"]
+	path = .vim/bundle/python-module
+	url = git@github.com:klen/python-mode.git
